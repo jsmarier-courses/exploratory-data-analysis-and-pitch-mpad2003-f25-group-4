@@ -108,8 +108,20 @@ Insert text here.
 
 ## 6. References
 
-Include a list of your references here. Please follow [APA guidelines for references](https://apastyle.apa.org/style-grammar-guidelines/references). Hanging paragraphs aren't required though.
+Bounegru, L. (2012). *The Data Journalism Handbook 1*. European Journalism Centre. https://datajournalism.com/read/handbook/one/introduction/data-journalism-in-perspective
 
-**Here's an example:**
+Brashaw, P. (2012). *The Data Journalism Handbook 1*. European Journalism Centre. https://datajournalism.com/read/handbook/one/introduction/what-is-data-journalism
 
-Bounegru, L., & Gray, J. (Eds.). (2021). *The Data Journalism Handbook 2: Towards A Critical Data Practice*. Amsterdam University Press. [https://ocul-crl.primo.exlibrisgroup.com/permalink/01OCUL_CRL/hgdufh/alma991022890087305153](https://ocul-crl.primo.exlibrisgroup.com/permalink/01OCUL_CRL/hgdufh/alma991022890087305153)
+Kayser-Bril, N., Anderton-Yang, D., Howard, A., Teixeira, César., Slobin, S., Vermanen, J., (2012). *The Data Journalism Handbook 1*. European Journalism Centre. https://datajournalism.com/read/handbook/one/introduction/why-is-data-journalism-important 
+
+Lorenz, M. (2012). *The Data Journalism Handbook 1*. European Journalism Centre. https://datajournalism.com/read/handbook/one/introduction/why-journalists-should-use-data
+
+Statistics Canada. (2020). *Data accuracy and validation: Methods to ensure the quality of data [Video]*. Government of Canada. https://www.statcan.gc.ca/en/wtc/data-literacy/catalogue/892000062020008
+
+Statistics Canada. (2021). *Indigenous people technical report: Data quality assessment. Government of Canada*. https://www12.statcan.gc.ca/census-recensement/2021/ref/98-307/2021001/chap4-eng.cfm 
+
+Statistics Canada (2023). *First Nations youth: Experiences and outcomes in secondary and postsecondary learning*. Government of Canada. https://www150.statcan.gc.ca/n1/pub/81-599-x/81-599-x2023001-eng.htm
+
+Statistics Canada. (2021). *Types of variables*. Government of Canada. https://www150.statcan.gc.ca/n1/edu/power-pouvoir/ch8/5214817-eng.htm  
+
+Universities Canada. (2024). *Investing in Indigenous education for a stronger Canada*. https://univcan.ca/news/investing-in-indigenous-education-for-a-stronger-canada/
