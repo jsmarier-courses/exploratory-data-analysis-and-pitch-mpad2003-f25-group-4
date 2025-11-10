@@ -5,8 +5,6 @@
 
 # Exploratory Data Analysis (EDA) & Pitch
 
-Use one hashtag symbol (`#`) to create a level 1 heading like this one.
-
 ## Foreword
 
 For this assignment, you must extract data from a dataset provided by the instructor. You must then clean and analyze the data, create exploratory charts/visualizations, and find a potential story idea. Your assignment must clearly detail your process. You are expected to write about 1500-2000 words, and to include several screen captures showing the different steps you went through. Your assignment must be written with the Markdown format and submitted on GitHub Classroom.
@@ -83,6 +81,9 @@ As Cairo (2016) argues, a data visualization should be truthful...
 ### 3.2. Cleaning Data
 
 Insert text here.
+
+![](clean-dataset-screen-capture.png)
+*Figure 1: The "Dataset" prompt on Google Sheets after the cleaning process.*
 
 ### 3.3. Exploratory Data Analysis (EDA)
 
