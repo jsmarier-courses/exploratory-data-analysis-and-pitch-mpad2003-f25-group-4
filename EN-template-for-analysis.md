@@ -1,6 +1,6 @@
-**Date**<br>
-**Course Code & Course Name**<br>
-**Student's First Name & Last Name**<br>
+**November 9th 2025**<br>
+**MPAD 2003-A**<br>
+**Gilven Senires, Annabel Young and Kiana Emile**<br>
 **Presented to Jean-Sébastien Marier**<br>
 
 # Exploratory Data Analysis (EDA) & Pitch
@@ -24,7 +24,7 @@ And to create an unordered list, we simply put a star (`*`) before each item.
 
 ## 1. Introduction
 
-Insert text here.
+For this assignment, we will be analyzing a City of Ottawa dataset to explore the question: How many people of the Indigenous groups graduate with a university degree or diploma (post-secondary education) in the city of Ottawa? The dataset, titled “2021 Long Form Census - Ward Data” was collected through the 2021 Census and published on the [Open Ottawa](https://open.ottawa.ca/datasets/ottawa::2021-long-form-census-ward-data/explore) platform. In our context, it provides demographic data about Ottawa’s population, including Indigenous identity, status, ancestry, and various education levels. The information was gathered by Statistics Canada and is organized into categories that show both total population counts and breakdowns of educational attainment. The dataset can be accessed on Open Ottawa and the CSV version is available on this [GitHub portal](https://github.com/jsmarier-courses/exploratory-data-analysis-and-pitch-mpad2003-f25-group-4). This project is divided into five main sections. It starts with the “Getting Data” section, which explains how the dataset was sourced and imported. The next major section, Understanding Data, includes three subsections, “VIMO Analysis, Cleaning, and Exploratory Data Analysis (EDA).” In these subsections, we review the dataset’s validity by identifying any missing, invalid, or outlier values and assessing its overall accuracy. To make the data easier to interpret, we will clean the spreadsheet and create both a table and a chart to provide a clearer visual overview. Following that, the “Potential Story” section uses the cleaned data to propose a possible story that connects the data to actuality. Finally, the “Conclusion” summarizes the overall experience, reflecting on strengths, challenges, and what could have been improved during the process. The project ends with a “References” section formatted according to APA guidelines.
 
 ## 2. Getting Data
 
@@ -32,8 +32,8 @@ Use two hashtag symbols (`##`) to create a level 2 heading like this one.
 
 To include a screen capture, use the sample code below. Your images should be saved in the same folder as your `.md` file.
 
-![](import-screen-capture.png)<br>
-*Figure 1: The "Import file" prompt on Google Sheets.*
+![](dataset-screen-capture.png)<br>
+*Figure 1: The "Dataset" prompt on Google Sheets just after importation.*
 
 **Here are examples of functions and lines of code put in grey boxes:**
 
