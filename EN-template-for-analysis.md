@@ -1,24 +1,9 @@
-**November 9th 2025**<br>
+**November 10th 2025**<br>
 **MPAD 2003-A**<br>
 **Gilven Senires, Annabel Young and Kiana Emile**<br>
 **Presented to Jean-Sébastien Marier**<br>
 
 # Exploratory Data Analysis (EDA) & Pitch
-
-## Foreword
-
-For this assignment, you must extract data from a dataset provided by the instructor. You must then clean and analyze the data, create exploratory charts/visualizations, and find a potential story idea. Your assignment must clearly detail your process. You are expected to write about 1500-2000 words, and to include several screen captures showing the different steps you went through. Your assignment must be written with the Markdown format and submitted on GitHub Classroom.
-
-I have been assigning different versions of this project to my digital journalism and data storytelling students for a few years now. Its structure was inspired by the main sections/chapters of [*The Data Journalism Handbook*](https://datajournalism.com/read/handbook/one/). This version was further inspired by the [Key Capabilities in Data Science](https://extendedlearning.ubc.ca/programs/key-capabilities-data-science) program offered by the University of British Columbia (UBC).
-
-**Here are some useful resources for this assignment:**
-
-* [GitHub's *Basic writing and formatting syntax* page](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-* [The template repository for this assignment in case you delete something by mistake](https://github.com/jsmarier/jou4100_jou4500_mpad2003_project2_template)
-
-Did you notice how to create a hyperlink? In Markdown, we put the clickable text between square brackets and the actual URL between parentheses.
-
-And to create an unordered list, we simply put a star (`*`) before each item.
 
 ## 1. Introduction
 
@@ -37,17 +22,6 @@ With 26 columns and 2,603 rows, our first impression of the dataset was that it 
 * [2021 Long Form Census - Ward Data](https://docs.google.com/spreadsheets/d/16wwc8f8S7XUzIEwFFINbTcRVEzD9WPAFdmFGat0rJ5g/edit?usp=sharing)
 
 To simplify things, we decided to keep only Columns A and B, focusing on two main sections: Indigenous identity types and education levels. In terms of variables, Column A, titled “Characteristics,” includes nominal variables because it lists categories instead of numbers. Such as Indigenous identity, Métis, etc, or the Highest certificate, diploma, or degree. According to Statistics: Power from Data! in the “Types of Variables” section under nominal variables, these labels are used “to name and organize the data, but there’s no particular order between them.” Whereas Column B, which lists “City of Ottawa,” contains discrete numerical variables. From the same site under discrete variables, however, these are countable numbers that represent population totals within each category, for instance, 26,395 Indigenous identity, which are fixed counts of people. Moreover, within the education section, the dataset also involves ordinal variables, like “No certificate, diploma, or degree,” “High school diploma,” “Bachelor’s degree,” etc.  These are ordered categories because each represents a different level of educational accomplishment, ranking from lower to higher qualifications. What we found that was missing is that while Ottawa shows a highly educated population overall, with more than ​550,005 people having postsecondary education the data doesn’t reveal how education levels differ across groups. For example, whether Indigenous populations have the same access to higher education. Including this context could have been a potential story about educational access and equity in Ottawa.
-
-**Here are examples of functions and lines of code put in grey boxes:**
-
-1. If you name a function, put it between "angled" quotation marks like this: `IMPORTHTML`.
-1. If you want to include the entire line of code, do the same thing, albeit with your entire code: `=IMPORTHTML("https://en.wikipedia.org/wiki/China"; "table", 5)`.
-1. Alternatively, you can put your code in an independent box using the template below:
-
-``` r
-=IMPORTHTML("https://en.wikipedia.org/wiki/China"; "table", 5)
-```
-This also shows how to create an ordered list. Simply put `1.` before each item.
 
 ## 3. Understanding Data
 
@@ -71,23 +45,18 @@ Based on the *Data Accuracy and Validation: Methods to Ensure the Quality of Dat
 
 According to the *Data Accuracy and Validation: Methods to Ensure the Quality of Data* video, at timestamp 2:17, “outliers are values that are extremely small or large compared to what we would normally expect.” They can sometimes be real, but should always be double-checked to make sure they make sense. In this dataset, nothing really stands out as errors, but there are a few values that are worth noting. For example, 91,825 people have a master’s degree, and 18,515 have a doctorate might seem like a lot, but for a large and educated city like Ottawa, that actually makes sense. On the other hand, the category “First Nations and Métis and Inuit ancestry” only equates to 0, which looks unusual because it’s the only group with a complete zero. That might seem off at first, but it just means no one in the sample identified with all three ancestries at once. As the video states, “some values are correct even though they are unusual”. As Bradshaw (2012) explains, data journalism uses digital information to uncover meaningful stories within large datasets. Outliers support this by allowing deeper analysis of rare values, since investigating can ensure accuracy and disclose overlooked data within the dataset.
 
-
-Support your claims by citing relevant sources. Please follow [APA guidelines for in-text citations](https://apastyle.apa.org/style-grammar-guidelines/citations).
-
-**For example:**
-
-As Cairo (2016) argues, a data visualization should be truthful...
-
 ### 3.2. Cleaning Data
 
-Insert text here.
+**Deleting Columns and Rows:** 
+The first thing necessary to properly clean the data was deleting the columns and rows that were unnecessary to us. Since we were focusing on the Indigenous population from the sample, as well as post-secondary graduates, it was important to sort through and remove any “clutter” in the dataset. First, we deleted all the ward columns except column B, “The City of Ottawa”, as we were looking only for Indigenous students within this ward, not the surrounding areas. Next, we had to look at all the rows, deciding what topics were important to our potential story. There were originally about 2,600 rows, and after removing the unnecessary rows related to language and income, we had about 55 rows remaining. Therefore, we cleaned up over 2500 rows by highlighting the topics (e.g., 155:1407) and deleting them. Deleting columns and rows was the biggest step in cleaning the dataset, making it much easier to read and narrowing down the amount of data available. 
+
 
 ![](clean-dataset-screen-capture.png)
 *Figure 1: The "Dataset" prompt on Google Sheets after the cleaning process.*
 
 ### 3.3. Exploratory Data Analysis (EDA)
 
-Insert text here.
+Uncompleted Section.
 
 **This section should include a screen capture of your pivot table, like so:**
 
@@ -101,24 +70,17 @@ Insert text here.
 
 ## 4. Potential Story
 
-We are exploring the percentage of the Indigenous population who have been able to graduate with a university degree/diploma. We could further dissect this topic by gaining more potential data. For example, we would need an exact number of graduates from the universities within the ward of the City of Ottawa - any major universities in the city such as Carleton University or University of Ottawa. If we wanted to get more data for specific years, we would interview families with Indigenous ancestors and get more data through that method. 
+We are exploring the number of the Indigenous population who have been able to graduate with a university degree/diploma. We could further dissect this topic by gaining more potential data. For example, we would need an exact number of graduates from the universities within the ward of the City of Ottawa - any major universities in the city such as Carleton University or University of Ottawa. If we wanted to get more data for specific years, we would interview families with Indigenous ancestors and get more data through that method. To further our story regarding Indigenous citizens studying at universities in Ottawa, we could gain some interesting insights if we were to interview high school students planning on going to universities in the City of Ottawa ward. We could also conduct interviews to talk about any struggles or if there is enough support and resources behind them. There is an “Indigenous Affairs” program at UOttawa, we could discuss the encouragement behind Indigenous students aspiring to attend universities. This program fosters learning opportunities for Indigenous students at the University of Ottawa, as well, engages in the process of  “indigenization”- this would be interesting to discuss and would help support our narrative. 
 
-To further our story regarding Indigenous citizens studying at universities in Ottawa, we could gain some interesting insights if we were to interview high school students planning on going to universities in the City of Ottawa ward. We could also conduct interviews to talk about any struggles or if there is enough support and resources behind them. 
-
-There is an “Indigenous Affairs” program at UOttawa, we could discuss the encouragement behind Indigenous students aspiring to attend universities. This program fosters learning opportunities for Indigenous students at the University of Ottawa, as well, engages in the process of  “indigenization”- this would be interesting to discuss and would help support our narrative. 
-
-Narrative questions:
-Is the educational engagement for post-secondary equivalent for non-Indigenous youth and First Nation youth? (refer to First Nations youth)
-Why may there be a gap between the number of non-Indigenous and Indigenous peoples who graduate from university?
-Moving forward, what are some ways we can close this gap?
+**Narrative Questions:**
+* Is the educational engagement for post-secondary equivalent for non-Indigenous youth and First Nation youth? (refer to First Nations youth)
+* Why may there be a gap between the number of non-Indigenous and Indigenous peoples who graduate from university?
+* Moving forward, what are some ways we can close this gap?
 
 
 ## 5. Conclusion
 
-As a group, we felt as though the most challenging part was coming up with the initial story. We first had to come up with a few options, just to make it easier for us to decide on one topic. We then had to cut down the data and find what elements were the most relevant to us. 
-We feel as though our story is significant to the context of being in university and its a great conversation to have, on the topic of diversity in schools in the Ottawa region. This story we’ve chosen is rewarding because we can learn things from researching about this topic in particular and bring forth meaningful data that can teach and show us strengths and flaws in our educational system, here in Ottawa. 
-We did struggle with gaps within our data. For example, we had cut down our data to relevant topics regarding Indigenous populations as well as the number of graduates from Ottawa universities; but an “issue” we ran into was the totals under each category we chose were all the same: “Indigenous identity for the population in private households”, “Registered or Treaty Indian status for the population in private households” and “Indigenous ancestry for the population in private households”, all had the total of 1000935. 
-However, what we needed to identify was the exact number of Indigenous peoples who graduated with a university degree and we had no means of identifying or calculating that number. 
+As a group, we felt as though the most challenging part was coming up with the initial story. We first had to come up with a few options, just to make it easier for us to decide on one topic. We then had to cut down the data and find what elements were the most relevant to us. We feel as though our story is significant to the context of being in university and its a great conversation to have, on the topic of diversity in schools in the Ottawa region. This story we’ve chosen is rewarding because we can learn things from researching about this topic in particular and bring forth meaningful data that can teach and show us strengths and flaws in our educational system, here in Ottawa. We did struggle with gaps within our data. For example, we had cut down our data to relevant topics regarding Indigenous populations as well as the number of graduates from Ottawa universities; but an “issue” we ran into was the totals under each category we chose were all the same: “Indigenous identity for the population in private households”, “Registered or Treaty Indian status for the population in private households” and “Indigenous ancestry for the population in private households”, all had the total of 1,000935. However, what we needed to identify was the exact number of Indigenous peoples who graduated with a university degree and we had no means of identifying or calculating that number. 
 
 ## 6. References
 
