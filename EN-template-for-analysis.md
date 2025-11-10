@@ -100,7 +100,7 @@ Statistics Canada (2023). *First Nations youth: Experiences and outcomes in seco
 
 Statistics Canada. (2021). *Types of variables*. Government of Canada. https://www150.statcan.gc.ca/n1/edu/power-pouvoir/ch8/5214817-eng.htm  
 
-Universities Canada. (2024). *Investing in Indigenous education for a stronger Canada*. https://univcan.ca/news/investing-in-indigenous-education-for-a-stronger-canada/
+Universities Canada. (2024). *Investing in Indigenous education for a stronger Canada*. Universities Canada. https://univcan.ca/news/investing-in-indigenous-education-for-a-stronger-canada/
 
-UOttawa. Indigenous Affairs - About Us 
+University of Ottawa. *Indigenous Affairs - About Us*. uOttawa 
 https://www.uottawa.ca/about-us/indigenous/indigenous-affairs
