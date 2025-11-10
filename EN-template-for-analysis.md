@@ -50,6 +50,12 @@ According to the *Data Accuracy and Validation: Methods to Ensure the Quality of
 **Deleting Columns and Rows:** 
 The first thing necessary to properly clean the data was deleting the columns and rows that were unnecessary to us. Since we were focusing on the Indigenous population from the sample, as well as post-secondary graduates, it was important to sort through and remove any “clutter” in the dataset. First, we deleted all the ward columns except column B, “The City of Ottawa”, as we were looking only for Indigenous students within this ward, not the surrounding areas. Next, we had to look at all the rows, deciding what topics were important to our potential story. There were originally about 2,600 rows, and after removing the unnecessary rows related to language and income, we had about 55 rows remaining. Therefore, we cleaned up over 2500 rows by highlighting the topics (e.g., 155:1407) and deleting them. Deleting columns and rows was the biggest step in cleaning the dataset, making it much easier to read and narrowing down the amount of data available. 
 
+**Changing the format:** 
+...
+
+**Overall Cleanup:** 
+...
+
 
 ![](clean-dataset-screen-capture.png)
 *Figure 1: The "Dataset" prompt on Google Sheets after the cleaning process.*
@@ -102,5 +108,5 @@ Statistics Canada. (2021). *Types of variables*. Government of Canada. https://w
 
 Universities Canada. (2024). *Investing in Indigenous education for a stronger Canada*. Universities Canada. https://univcan.ca/news/investing-in-indigenous-education-for-a-stronger-canada/
 
-University of Ottawa. *Indigenous Affairs - About Us*. uOttawa 
+University of Ottawa. *Indigenous Affairs - About Us*. uOttawa. 
 https://www.uottawa.ca/about-us/indigenous/indigenous-affairs
