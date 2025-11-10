@@ -1,7 +1,3 @@
-## Template for the Exploratory Data Analysis (EDA) & Pitch
+## Analyzing Indigenous Education Levels in Ottawa
 
-Here are the files for the term project of courses JOU4100 Digital Journalism II and JOU4500 Journalisme numérique II at the University of Ottawa, and MPAD2003 Introductory Data Storytelling offered at Carleton University.
-
-## Modèle pour le Analyse exploratoire de données (AED) et proposition
-
-Vous trouverez ici les fichiers pour le projet de session des cours JOU4100 Digital Journalism II et JOU4500 Journalisme numérique II à l'Université d'Ottawa, et du cours MPAD2003 Introductory Data Storytelling offert à l'Université Carleton.
+This project uses data from the City of Ottawa's "2021 Long Form Census - Ward Data", collected by Statistics Canada. The objective is to explore how many people from different Indigenous groups such as First Nations, Métis, Inuk ect.. in Ottawa have earned a university degree or post-secondary diploma. The methodology involved conducting a VIMO analysis to assess data accuracy, then cleaning the dataset in Google Sheets using tools like whitespace removal, duplicates and functions such as SPLIT CONCATENATE. Furthermore, using a pivot table and chart for visuals. Finally, Ottawa's population shows strong post-secondary achievements, yet the dataset lacks detailed links between education and  Indigenous representation in higher education, limiting further analysis.
