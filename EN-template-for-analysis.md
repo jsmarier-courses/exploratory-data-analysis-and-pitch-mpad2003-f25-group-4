@@ -115,7 +115,10 @@ Moving forward, what are some ways we can close this gap?
 
 ## 5. Conclusion
 
-Insert text here.
+As a group, we felt as though the most challenging part was coming up with the initial story. We first had to come up with a few options, just to make it easier for us to decide on one topic. We then had to cut down the data and find what elements were the most relevant to us. 
+We feel as though our story is significant to the context of being in university and its a great conversation to have, on the topic of diversity in schools in the Ottawa region. This story we’ve chosen is rewarding because we can learn things from researching about this topic in particular and bring forth meaningful data that can teach and show us strengths and flaws in our educational system, here in Ottawa. 
+We did struggle with gaps within our data. For example, we had cut down our data to relevant topics regarding Indigenous populations as well as the number of graduates from Ottawa universities; but an “issue” we ran into was the totals under each category we chose were all the same: “Indigenous identity for the population in private households”, “Registered or Treaty Indian status for the population in private households” and “Indigenous ancestry for the population in private households”, all had the total of 1000935. 
+However, what we needed to identify was the exact number of Indigenous peoples who graduated with a university degree and we had no means of identifying or calculating that number. 
 
 ## 6. References
 
