@@ -1,6 +1,6 @@
 **November 10th 2025**<br>
 **MPAD 2003-A**<br>
-**Gilven Senires, Annabel Young and Kiana Emile**<br>
+**Gilven Senires, Annabel Young and Kiana Émile**<br>
 **Presented to Jean-Sébastien Marier**<br>
 
 # Exploratory Data Analysis (EDA) & Pitch
@@ -108,5 +108,5 @@ Statistics Canada. (2021). *Types of variables*. Government of Canada. https://w
 
 Universities Canada. (2024). *Investing in Indigenous education for a stronger Canada*. Universities Canada. https://univcan.ca/news/investing-in-indigenous-education-for-a-stronger-canada/
 
-University of Ottawa. *Indigenous Affairs - About Us*. uOttawa. 
+University of Ottawa. *Indigenous Affairs - About Us*. uOttawa.
 https://www.uottawa.ca/about-us/indigenous/indigenous-affairs
