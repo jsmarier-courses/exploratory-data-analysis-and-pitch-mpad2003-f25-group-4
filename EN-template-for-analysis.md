@@ -101,8 +101,17 @@ Insert text here.
 
 ## 4. Potential Story
 
-Insert text here 
-This is my commit.
+We are exploring the percentage of the Indigenous population who have been able to graduate with a university degree/diploma. We could further dissect this topic by gaining more potential data. For example, we would need an exact number of graduates from the universities within the ward of the City of Ottawa - any major universities in the city such as Carleton University or University of Ottawa. If we wanted to get more data for specific years, we would interview families with Indigenous ancestors and get more data through that method. 
+
+To further our story regarding Indigenous citizens studying at universities in Ottawa, we could gain some interesting insights if we were to interview high school students planning on going to universities in the City of Ottawa ward. We could also conduct interviews to talk about any struggles or if there is enough support and resources behind them. 
+
+There is an “Indigenous Affairs” program at UOttawa, we could discuss the encouragement behind Indigenous students aspiring to attend universities. This program fosters learning opportunities for Indigenous students at the University of Ottawa, as well, engages in the process of  “indigenization”- this would be interesting to discuss and would help support our narrative. 
+
+Narrative questions:
+Is the educational engagement for post-secondary equivalent for non-Indigenous youth and First Nation youth? (refer to First Nations youth)
+Why may there be a gap between the number of non-Indigenous and Indigenous peoples who graduate from university?
+Moving forward, what are some ways we can close this gap?
+
 
 ## 5. Conclusion
 
