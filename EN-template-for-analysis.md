@@ -51,10 +51,11 @@ According to the *Data Accuracy and Validation: Methods to Ensure the Quality of
 The first thing necessary to properly clean the data was deleting the columns and rows that were unnecessary to us. Since we were focusing on the Indigenous population from the sample, as well as post-secondary graduates, it was important to sort through and remove any “clutter” in the dataset. First, we deleted all the ward columns except column B, “The City of Ottawa”, as we were looking only for Indigenous students within this ward, not the surrounding areas. Next, we had to look at all the rows, deciding what topics were important to our potential story. There were originally about 2,600 rows, and after removing the unnecessary rows related to language and income, we had about 55 rows remaining. Therefore, we cleaned up over 2500 rows by highlighting the topics (e.g., 155:1407) and deleting them. Deleting columns and rows was the biggest step in cleaning the dataset, making it much easier to read and narrowing down the amount of data available. 
 
 **Changing the format:** 
-...
+We made some format changes, like making sure you could read all information in each column by double-clicking the column drag slider and aligning the text in each column to be the same (aligned in the same direction). This gave the dataset a uniform look, improving the visuals and making sure all of the text can be read properly.
 
 **Overall Cleanup:** 
-...
+Finally, for readability, we decided to make formatting changes, like adding commas and decimal points to each nominal variable (Format > Number > Number) and emphasizing the different sections in the characteristics column, important numbers, and the column titles. This made the dataset much easier to read by highlighting the important information and ensuring all the numbers have the same decimal values.
+
 
 
 ![](clean-dataset-screen-capture.png)
@@ -62,7 +63,21 @@ The first thing necessary to properly clean the data was deleting the columns an
 
 ### 3.3. Exploratory Data Analysis (EDA)
 
-Uncompleted Section.
+![](MPAD2003-indgancestry.png)
+*Figure 1: Total Population of Citizens Who Identify as Indigenous in The City of Ottawa, Ward 1, and Ward 2.*
+
+![](MPAD2003-indgidentity.png)
+*Figure 2:  Total Population of Citizens Who Have Indigenous Ancestry in the City of Ottawa, Ward 1, and Ward 2.*
+
+![](MPAD2003-indgstatus.png)
+*Figure 3: Total Population of Citizens Who have Indian Status in the City of Ottawa, Ward 1, and Ward 2.*
+
+To properly illustrate our story, we had to create three pivot tables. Each table represents a different category for the Indigenous populations of the City of Ottawa, as well as Wards 1 and 2. The three categories are Indigenous identity, Indigenous ancestry, and Indigenous/Indian status, respectively. Because we had to change our initial story from focusing on Indigenous graduates (due to the lack of corresponding data) to looking at the discrepancies with identity, ancestry, and status when it comes to Indigenous Peoples, these tables have no data regarding post-secondary education/graduation. We chose these factors specifically because we found it interesting that there are three categorical ways in which the city identifies Indigenous Peoples. It was also interesting to see that all three wards have a similar identity, status, and ancestry ratio.
+
+![](sheets-chart.png)
+*Figure 4: Comparison of Indigenous Identity, Ancestry, and Indian Status in the City of Ottawa, Ward 1, and Ward 2.*
+
+The chart above is a visual representation of Indigenous citizens who either identify as indigenous, have indigenous ancestry, or are status Indians. The most interesting data comparison is between those who identify as Indigenous vs. those who have Indian status. Only 10% of Indigenous identifying citizens are recognized by the Indian Act, which is quite shocking, but not surprising considering the laws that made the process of gaining or losing status very complicated. To better understand this gap, looking at what factors into Indian Status, and the process and laws surrounding it, is the best course of action.
 
 **This section should include a screen capture of your pivot table, like so:**
 
